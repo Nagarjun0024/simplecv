@@ -46,4 +46,4 @@ N. Nagarjun
 Use or modify freely. Add a license file if needed.
 
 ## Project URL
-https://nagarjun0024.github.io/simplecv/
+https://github.com/Nagarjun0024/simplecv.git
